@@ -43,3 +43,5 @@
 
 ### Additional Media
 + [IDEO's Innovation by Design video](https://www.youtube.com/watch?v=M66ZU2PCIcM)
+
+<a href='https://learn.co/lessons/hs-ruby1-teachers-guide-ideation' data-visibility='hidden'>View this lesson on Learn.co</a>
