@@ -44,4 +44,4 @@
 ### Additional Media
 + [IDEO's Innovation by Design video](https://www.youtube.com/watch?v=M66ZU2PCIcM)
 
-<a href='https://learn.co/lessons/hs-ruby1-teachers-guide-ideation' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby1-teachers-guide-ideation' title='Unit 9: Ideation'>Unit 9: Ideation</a> on Learn.co and start learning to code for free.</p>
